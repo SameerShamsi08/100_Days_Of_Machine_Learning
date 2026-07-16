@@ -13,4 +13,4 @@
 
 ![image alt](https://github.com/SameerShamsi08/100_Days_Of_Machine_Learning/blob/7e92f83526331277b6b2b79e57f41090291d8a88/ai.jpeg)
 
-*Artifical intelligence is the brain and machine learning is the backbone that is helping the AI to train itself by analyzing the Data
+*Artifical intelligence is the brain and machine learning is the backbone that is helping the AI to train itself by analyzing the Data*
