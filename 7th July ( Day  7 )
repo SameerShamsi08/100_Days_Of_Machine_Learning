@@ -1,0 +1,16 @@
+**Day 7** - I did this day seperately as it is important to know about this in depth 
+
+Challenges we face in Machine Learning - 
+
+-Having a huge data that needs to be trained
+-Out of Memory
+-Data Collection - API , Webscraping , CSV and JSON/SQL
+-Insufficient Data
+-Non Representative Data , basically it is the hidden data or partial data that was not used at the time of training and was required 
+as the algorithm didn't included it
+-Poor Quality Data
+-Irrelevant Features
+-Overfitting/Underfitting
+-Software Integration - The Final product is valuabe for users or not
+-Offline Learning / Development
+-Cost Involved 
