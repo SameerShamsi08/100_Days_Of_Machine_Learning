@@ -1,0 +1,9 @@
+**Day 10** - What are Tensors ? 
+
+Tensors are type of data structure that stores integers in a containter like shape 
+
+-1DTensor (a.ndim)
+-2DTensor (array)
+-3DTensor (matrices)
+-4DTensor (collection of matrices)
+-5DTensor (collection of matrices)
