@@ -5,12 +5,9 @@ Machine learning is a subset of Artifical intelligence where we predict the outc
 
 Machine Learning is all about data and training the data and analyzing the Data
 
-
 Machine learning requires good statistics and probability 
 
-
 Day 2 - On this Day we learned the differnence between AI/ML/DL
-
 
 The easiest way to know the differnnce is by seeing this
 
