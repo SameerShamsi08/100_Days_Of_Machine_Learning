@@ -7,7 +7,7 @@ Day 1 - On this Day we learned what is machine learning and why it is important 
 
 *Machine learning requires good statistics and probability 
 
-Day 2 - On this Day we learned the differnence between AI/ML/DL
+**Day 2** - On this Day we learned the differnence between AI/ML/DL
 
 *The easiest way to know the differnnce is by seeing this
 
