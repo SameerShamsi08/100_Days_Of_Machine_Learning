@@ -3,7 +3,6 @@ Day 1 - On this Day we learned what is machine learning and why it is important 
 
 Machine learning is a subset of Artifical intelligence where we predict the outcome based on the given data
 
-
 Machine Learning is all about data and training the data and analyzing the Data
 
 
