@@ -1,0 +1,10 @@
+**Day 26** - Encoding Categorical Data
+
+Whenever we have categorial data we have to use the method of encoding to change it from
+categorical to numerical as machine learning models usually can only understand numerical values
+
+Types of Encoding Data 
+
+-Ordinal Encoding
+-Label Encoding
+-OneHot Encoding
