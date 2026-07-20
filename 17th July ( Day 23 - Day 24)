@@ -1,0 +1,17 @@
+**Day 23** - What is Feature Engineering ? 
+
+It is a domain where we apply some methods on columns to reduce the number of columns.
+It Extracts Features from the data 
+
+Types of Feature Engineering : 
+-Feature Transformation
+-Feature Construction
+-Feature Scaling
+-Feature Extraction
+
+All serve difference purpose and helps in making changes with columns of data
+
+**Day 24** - Standardization (Feature Scaling)
+
+-Standardization is a type of technique of feature scaling where we scale the present data in a fixed range 
+-It is used in algorithms like KNN , K-Means , Principal Component Analysis , Artificial Neural Network , Gradient Descent
