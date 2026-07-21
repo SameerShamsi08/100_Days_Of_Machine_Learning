@@ -1,0 +1,24 @@
+**Day 32** - Discretization and Binarization 
+
+-Discretization is the process of converting continuous variables into discrete variables using bins (Also called as Binning)
+-Binarization is the process of converting continuous variables into Binary variables using bins
+
+**Day 33** - Handling Mixed Variables 
+
+-Handling of Data containing Categorial and Numerical both values in single value (eg:CH2 , OH2)
+
+**Day 34** - Date and Time
+
+-Handling Date and Time variables using Date and time specific libraries of python
+
+**Day 35** - Handling Missing Data (CCA)
+
+-There are many way to handle missing data but when we are removing the columns containing missing values, that process is called a Complete Case Analysis
+
+**Day 36** - Handling Missing Numerical Data (SimpleImputer)
+-Univariate AND Multi-Variate
+-SimpleImputer(strategy = 'most_frequent')
+
+*Day 37** - Handling Missing Categorial Data (SimpleImputer)
+
+-Same process but just few tunings for categorial data
